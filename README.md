@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -54,7 +54,7 @@
       "name": "Future Perspective"
     },
     "datePublished": "2026-10-29",
-    "dateModified": "2026-10-29"
+    "dateModified": "2026-10-04"
   }
   </script>
 
