@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -31,45 +31,32 @@
   <meta name="twitter:image" content="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Elon_Musk.jpg/960px-Elon_Musk.jpg">
 
   <!-- Basic Article structured data. Replace example.com and author details before publishing. -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "One Man Wants to Take Humanity to Another Planet. Are We Ready?",
-  "description": "Elon Musk's ambition to take humanity beyond Earth raises questions about education, economic development, leadership and the future of developing countries.",
-  "image": [
-    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Elon_Musk.jpg/960px-Elon_Musk.jpg"
-  ],
-  "datePublished": "2026-10-29",
-  "dateModified": "2026-11-04",
-  "articleSection": [
-    "Space exploration",
-    "Economic development",
-    "Education",
-    "Leadership"
-  ],
-  "keywords": [
-    "developing countries and the future",
-    "Elon Musk Mars mission",
-    "economic development",
-    "future of education",
-    "critical thinking",
-    "technological progress"
-  ],
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://vimukthichathurangarb-stack.github.io/-future-perspective/"
-  },
-  "author": {
-    "@type": "Organization",
-    "name": "Future Perspective"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Future Perspective"
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "One Man Wants to Take Humanity to Another Planet. Are We Ready?",
+    "description": "Elon Musk's ambition to take humanity beyond Earth raises questions about education, economic development, leadership and the future of developing countries.",
+    "image": ["https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Elon_Musk.jpg/960px-Elon_Musk.jpg"],
+    "dateModified": "2026-10-30",
+    "articleSection": ["Space exploration", "Economic development", "Education", "Leadership"],
+    "keywords": ["developing countries and the future", "Elon Musk Mars mission", "economic development", "future of education", "critical thinking", "technological progress"],
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://example.com/developing-countries-future-of-humanity"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Your Name"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Future Perspective"
+    },
+    "datePublished": "2026-10-29",
+    "dateModified": "2026-11-04"
   }
-}
-</script>
+  </script>
 
   <style>
     :root {
@@ -423,7 +410,7 @@
     }
   </style>
 </head>
-<meta name="google-site-verification" content="5U4BayVdk6YuKE80mQRMaR4irxn0vHn8-ER668NAMTY" />
+
 <body>
   <a class="skip-link" href="#main-content">Skip to article</a>
 
@@ -748,7 +735,7 @@
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <span>© this is my friest blogging exprience .</span>
+      <span>© 2026 Future Perspective. Update this site name and year as needed.</span>
       <span><a href="#main-content">Back to top ↑</a></span>
     </div>
   </footer>
